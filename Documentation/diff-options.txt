@@ -356,7 +356,7 @@ ifndef::git-format-patch[]
 	this option is not given, and the configuration variable
 	`diff.wsErrorHighlight` is not set, only whitespace errors in
 	`new` lines are highlighted. The whitespace errors are colored
-	whith `color.diff.whitespace`.
+	with `color.diff.whitespace`.
 
 endif::git-format-patch[]
 
